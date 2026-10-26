@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "updated": null,
+  "notice": null,
+  "buy": {
+    "url": null,
+    "price": null,
+    "label": "Get early access"
+  },
+  "legal": {
+    "privacy": null,
+    "terms": null,
+    "refunds": null,
+    "safety": null
+  },
+  "clips": {
+    "hero": {
+      "poster": null,
+      "loop": null,
+      "loopPortrait": null
+    },
+    "agents": {
+      "poster": null,
+      "loop": null,
+      "loopPortrait": null
+    },
+    "agent-life": {
+      "poster": null,
+      "loop": null,
+      "loopPortrait": null
+    },
+    "browser": {
+      "poster": null,
+      "loop": null,
+      "loopPortrait": null
+    },
+    "builder": {
+      "poster": null,
+      "loop": null,
+      "loopPortrait": null
+    },
+    "walk": {
+      "poster": null,
+      "loop": null,
+      "loopPortrait": null
+    },
+    "neighbourhoods": {
+      "poster": null,
+      "loop": null,
+      "loopPortrait": null
+    },
+    "coffee": {
+      "poster": null,
+      "loop": null,
+      "loopPortrait": null
+    },
+    "vault": {
+      "poster": null,
+      "loop": null,
+      "loopPortrait": null
+    }
+  }
+}
